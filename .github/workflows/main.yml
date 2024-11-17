@@ -68,7 +68,7 @@ jobs:
         uses: docker/login-action@v2
         # При помощи with передаём в action параметры username и password
         with:
-          username: Kukus89@gmail.com
+          username: Kukus89
           password: XD3CxWn_!!7sG4Y
           # Хорошо ли держать логин и пароль прямо в коде workflow?
           # Нет, это нехорошо
